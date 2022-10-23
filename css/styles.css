@@ -84,13 +84,9 @@ color: #FFFFFF;
 font-weight: 700;
 font-size: 16px;
 line-height: 1.88;
-color: #FFFFFF;
-background:#2F303A ;
+color: var(--tytle-color);
+background: #F5F4FA;
  }
- .button:focus,.button:hover{
-	background: var(--button-color);
-} 
-
 .tytle-mini{
 font-size: 14px;
 line-height: 1.14;
